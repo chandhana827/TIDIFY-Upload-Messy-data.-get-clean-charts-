@@ -1,6 +1,6 @@
 # Tidify 
 
-a messy CSV or Excel file, get a clean dataset and a bunch of charts. That's basically it.
+upload a messy CSV or Excel file, get a clean dataset and a bunch of charts. That's basically it.
 
 I built this because I kept doing the same tedious stuff every time I got a new dataset — hunting for nulls, finding duplicates, converting columns that pandas read as strings when they're obviously numbers. Tidify just does all of that automatically so I can jump straight to the interesting part.
 
