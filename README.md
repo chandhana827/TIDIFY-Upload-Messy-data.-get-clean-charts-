@@ -35,7 +35,7 @@ Every chart has a download button too.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run 
 ```
 
 Opens at `http://localhost:8501`. Upload a file from the sidebar and you're done.
