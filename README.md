@@ -6,7 +6,7 @@ I built this because I kept doing the same tedious stuff every time I got a new 
 
 ---
 
-## What it 
+## What it does 
 
 **Cleaning** — when you upload a file, it runs through a few steps:
 - Strips whitespace and normalises all the weird ways people write "nothing" — `N/A`, `null`, `NULL`, empty strings — all treated as proper NaNs
